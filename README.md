@@ -1,4 +1,4 @@
-# Shotgun Developer Day 2019 Resources
+# Shotgun Day 2019 Resources
 
 ## What is Shotgun Day?
 A day of classes for people interested in developing custom solutions with Shotgun.
@@ -28,6 +28,11 @@ We'll cover how to react to data changes in Shotgun using our event daemon or ou
 and how to write a simple pipeline tool using Shotgun Toolkit.
 
 **What you will learn from this session:**
+
+
+### Technical Roundtable
+**Description**: An overview of what we've been working on and what we are going to be working
+on soon. At SIGGRAPH this presentation was followed by a round of questions and answers.
 
 
 
