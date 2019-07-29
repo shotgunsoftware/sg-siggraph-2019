@@ -15,6 +15,11 @@ at SIGGRAPH 2019. This includes all of the following:
 
 ## Sessions
 
+### The future of Shotgun Platform
+Learn all about advances in reliability, security and performance of the Shotgun 
+platform and the latest on our relationship with AWS, Independent Security Evaluators, 
+and Trusted Partner Network compliance.
+
 ### Developing for Shotgun - An Introduction
 Join us to see how Shotgun's APIs automate tasks and data-tracking 
 in your studio. We'll also dive into our Python and REST APIs.
