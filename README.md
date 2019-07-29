@@ -16,25 +16,17 @@ at SIGGRAPH 2019. This includes all of the following:
 ## Sessions
 
 ### Developing for Shotgun - An Introduction
-**Description**: Join us to see how Shotgun's APIs automate tasks and data-tracking 
+Join us to see how Shotgun's APIs automate tasks and data-tracking 
 in your studio. We'll also dive into our Python and REST APIs.
 
-**What you will learn from this session:**
-
-
 ### Developing for Shotgun - Advanced Topics
-**Description**: See how to use some of Shotgun's more advanced developer tools. 
+See how to use some of Shotgun's more advanced developer tools. 
 We'll cover how to react to data changes in Shotgun using our event daemon or our new webhooks, 
 and how to write a simple pipeline tool using Shotgun Toolkit.
 
-**What you will learn from this session:**
-
-
 ### Technical Roundtable
-**Description**: An overview of what we've been working on and what we are going to be working
+An overview of what we've been working on and what we are going to be working
 on soon. At SIGGRAPH this presentation was followed by a round of questions and answers.
-
-
 
 Materials for each session can be found in the corresponding folders in this 
 repository.
