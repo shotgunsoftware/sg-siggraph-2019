@@ -1,0 +1,13 @@
+version: "3.0"
+services:
+  event_daemon:
+    build: .
+    volumes:
+      - logs:/shotgun_events/logs/
+      - ./deploy/shotgunEventDaemon.conf:/etc/shotgunEventDaemon.conf
+      - ./deploy/plugins:/shotgun_events/plugins
+    environment:
+      SGDAEMON_TASKSTATUS_NAME: <your_script>
+      SGDAEMON_TASKSTATUS_KEY: <your_key>
+volumes:
+  logs:
