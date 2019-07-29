@@ -1,0 +1,1 @@
+git+https://github.com/shotgunsoftware/python-api.git@v3.0.41
