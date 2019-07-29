@@ -5,9 +5,9 @@ from flask import Flask, request
 import requests
 import shotgun_api3
 
-SITE_URL = os.environ.get('SG_HOST') or 'http://localhost:8888' + '/api/v1'
-SCRIPT_NAME = os.environ.get('SG_SCRIPT_NAME') or 'siggraph_demo'
-SCRIPT_KEY = os.environ.get('SG_SCRIPT_KEY') or 'spuvn^jnss5fvqTglrkbswvob'
+SITE_URL = os.environ.get('SG_HOST') + '/api/v1'
+SCRIPT_NAME = os.environ.get('SG_SCRIPT_NAME')
+SCRIPT_KEY = os.environ.get('SG_SCRIPT_KEY')
 
 app = Flask(__name__)
 
