@@ -1,2 +1,2 @@
-Flask==1.1.1
+Flask==2.3.2
 git+git://github.com/shotgunsoftware/python-api.git@v3.0.41
